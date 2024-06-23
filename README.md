@@ -1,8 +1,8 @@
 ![GitHub Repo Size](https://img.shields.io/github/repo-size/FAMAF-resources/LMA-2do_2C-Funciones_Complejas-FAMAF)
 
-# Materia - FAMAF - Matemática Aplicada
+# Funciones Complejas - FAMAF - Matemática Aplicada
 
-> Cuatrimestre
+> 2C
 
 ## Correlativas para **cursar**
 
